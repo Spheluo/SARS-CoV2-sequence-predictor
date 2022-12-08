@@ -6,7 +6,7 @@ reference: https://github.com/ericmjl/flu-sequence-predictor
 
 The SARS-CoV-2 sequence data come from the NCBI virus database.
 
-The codes were rewritten so that they can be run on Google Colab.
+Some codes were rewritten so that they can be run on Google Colab.
 
 ----------------------------------------------------------------------
 ### Viewing Flu Forecaster
