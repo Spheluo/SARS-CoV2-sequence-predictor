@@ -1,12 +1,14 @@
 # SARS-CoV-2 predictor
 
-Ae aim to predict the sequence evolution of SARS-CoV-2 spike protein by using deep learning. The methods and codes here are modified from a flu-forecaster developed by Eric Ma. 
+We aimed to predict the sequence evolution of SARS-CoV-2 spike protein by using deep learning. 
+The pipeline, methods and codes here were modified from a flu-forecaster developed by Eric Ma. 
 reference: https://github.com/ericmjl/flu-sequence-predictor
 
 The SARS-CoV-2 sequence data come from the NCBI virus database.
 
 The codes were rewritten so that they can be run on Google Colab.
 
+----------------------------------------------------------------------
 ### Viewing Flu Forecaster
 
 Flu Forecaster is hosted on [Heroku][heroku], but can also be hosted locally. An internet connection is required for the display components and for downloading data from this GitHub repository.
