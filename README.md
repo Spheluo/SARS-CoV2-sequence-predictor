@@ -1,7 +1,7 @@
 # SARS-CoV-2 sequence predictor
 
 COVID-19 is a serious global health problem and producing vaccines against evolved SARS-CoV-2 virus is an important issue. We thus aim to predict the sequence evolution of SARS-CoV-2 spike protein by using deep learning.
-The pipeline, methods and codes here were modified from a [flu-forecaster](https://github.com/ericmjl/flu-sequence-predictor) developed by [Eric Ma](https://github.com/ericmjl). Some codes were partly rewritten so that they can be run on Google Colab.
+The pipeline, methods and codes here were adapted from a [flu-forecaster](https://github.com/ericmjl/flu-sequence-predictor) developed by [Eric Ma](https://github.com/ericmjl). Some codes were partially rewritten so that they can be run on Google Colab.
 
 ## Data
 
